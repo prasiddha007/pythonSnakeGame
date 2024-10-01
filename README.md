@@ -1,2 +1,2 @@
-# pythongSnakeGame
+# pythonSnakeGame
  
